@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rainTai
 - 👀 I’m interested in frontEnd
-- 🌱 I’m currently learning vue3
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning vue3&React
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me 13612260854
 
 <!---
